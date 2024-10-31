@@ -1,5 +1,5 @@
 {
-    "name": "fakharak/php-stub-to-code-generator",
+    "name": "crustphp/php-stub-to-code-generator",
     "description": "Creates source-code from a predefined stub files, using PHP.",
     "type": "library",
     "license": "MIT",
