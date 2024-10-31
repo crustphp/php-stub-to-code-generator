@@ -22,7 +22,7 @@
     },
     "autoload" : {
         "psr-4" : {
-            "SwooleSource\\StubConverter\\": "src/"
+            "Crust\\StubConverter\\": "src/"
         }
     }
 }
