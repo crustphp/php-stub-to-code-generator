@@ -1,0 +1,28 @@
+{
+    "name": "fakharak/php-stub-to-code-generator",
+    "description": "Creates source-code from a predefined stub files, using PHP.",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Fakhar Anwar",
+            "email": "fakhar.anwar@gmail.com"
+        },
+        {
+            "name": "Mohsin Ali",
+            "email": "mohsin.ali8541@gmail.com"
+        },
+        {
+            "name": "Shoaib Arshad",
+            "email": "shoaibarshad6578303@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=7.2.0"
+    },
+    "autoload" : {
+        "psr-4" : {
+            "SwooleSource\\StubConverter\\": "src/"
+        }
+    }
+}
