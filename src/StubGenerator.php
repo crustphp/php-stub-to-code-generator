@@ -1,10 +1,10 @@
 <?php
 
-namespace SwooleSource\StubConverter;
+namespace Crust\StubConverter;
 
-use SwooleSource\StubConverter\StubFactory;
-use SwooleSource\StubConverter\Exceptions\StubGenerationException;
-use SwooleSource\StubConverter\Concerns\FileHelpers as StubFileHelpers;
+use Crust\StubConverter\StubFactory;
+use Crust\StubConverter\Exceptions\StubGenerationException;
+use Crust\StubConverter\Concerns\FileHelpers as StubFileHelpers;
 
 class StubGenerator {
 
@@ -13,7 +13,7 @@ class StubGenerator {
     /**
      * The instance of StubFactory
      *
-     * @var object<\SwooleSource\StubConverter\StubFactory>
+     * @var object<\Crust\StubConverter\StubFactory>
      */
     protected $stubFactory;
 

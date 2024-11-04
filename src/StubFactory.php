@@ -1,8 +1,8 @@
 <?php
 
-namespace SwooleSource\StubConverter;
+namespace Crust\StubConverter;
 
-use SwooleSource\StubConverter\Concerns\FileHelpers as StubFileHelpers;
+use Crust\StubConverter\Concerns\FileHelpers as StubFileHelpers;
 
 class StubFactory
 {

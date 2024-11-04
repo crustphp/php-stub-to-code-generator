@@ -1,6 +1,6 @@
 <?php
 
-namespace SwooleSource\StubConverter\Concerns;
+namespace Crust\StubConverter\Concerns;
 
 trait FileHelpers
 {

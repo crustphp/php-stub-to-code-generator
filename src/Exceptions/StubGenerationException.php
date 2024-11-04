@@ -1,6 +1,6 @@
 <?php
 
-namespace SwooleSource\StubConverter\Exceptions;
+namespace Crust\StubConverter\Exceptions;
 
 use Exception;
 
